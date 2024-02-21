@@ -1,0 +1,45 @@
+{
+  "tabbar": {
+    "home": "Home",
+    "discovery": "Discovery",
+    "games": "Games",
+    "scan": "Scan",
+    "profile": "Profile"
+  },
+  "alert": {
+    "title": "Alert",
+    "ok": "OK",
+    "yes": "YES",
+    "no": "NO",
+    "cancel": "Cancel",
+    "dismiss": "Dismiss",
+    "notice": "Notice",
+    "skip": "Skip",
+    "go": "GO",
+    "later": "Later"
+  },
+  "error": {
+    "empty": "No data",
+    "noData": "No results"
+  },
+  "game_tetris": {
+    "gameName": "Word Tetris",
+    "sounds": "Sounds",
+    "pauseResume": "Pause",
+    "reset": "Reset",
+    "points": "Points",
+    "cleans": "Cleans",
+    "level": "Level",
+    "you": "You",
+    "tapToPlay": "Tap to Play",
+    "gameOver": "Game Over",
+    "leaderboard": "Leaderboard",
+    "listWords": "List words",
+    "pointShort": "pts.",
+    "playAgain": "Play Again",
+    "youWon": "You Won:",
+    "retry": "Retry",
+    "exit": "Exit",
+    "next": "Next"
+  }
+}
